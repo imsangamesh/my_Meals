@@ -1,16 +1,16 @@
-# meals
+# meals app
 
-A new Flutter project.
+hey there 
 
-## Getting Started
+this is the project built on flutter and it basically shows 
+- the navigation between pages and 
+- displays the details of selected meals
+- and can be seen in different categories of which you prefer
+- and shows steps to cook it 
 
-This project is a starting point for a Flutter application.
+you can try to follow some steps in cooking and try at home :)
 
-A few resources to get you started if this is your first Flutter project:
+this project is done by following Maximilian's tut in Udemy by fully understanding basic and fundamental 
+concepts in flutter 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+thankyou for visiting ...
